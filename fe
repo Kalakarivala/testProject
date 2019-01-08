@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "title": "Bird box",
+            "genre": "Drama, Horror, Sci-Fi, Netflix",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=16ae731077a6d14e55ae6580b0ea50ed64252fb29238ec359e9ced4730dbbe28fdb36c174e17ec02&id=165739764&dk=MTJrd3pnc29rdHh4Ni0xNjU3Mzk3NjQubXA0&node=DS04&filename=bird box 2018 netflix.mp4",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=16ae731077a6d14e55ae6580b0ea50ed64252fb29238ec359e9ced4730dbbe28fdb36c174e17ec02&id=165739764&dk=MTJrd3pnc29rdHh4Ni0xNjU3Mzk3NjQubXA0&node=DS04&filename=bird box 2018 netflix.mp4",
+            "info": "Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.",
+            "cover": "https://drive.google.com/uc?export=view&id=14PwOsMoNqBC2nB95Bw4ueU-jjJHh7S7q"
+        },
+        {
+            "title": "The Mermaid Lake of the Dead",
+            "genre": "Fantasy, Horror, Ronmance",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv516850.mkv",
+            "videoThree": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv516850.mkv",
+            "info": "An evil Mermaid falls in love with Marina's fiancé Roman and aims to keep him away from Marina in her Kingdom of Death under water.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjAyYWFiNmEtY2JkNi00NGExLWI4YTctZjAyYmVjMjRjYjdlXkEyXkFqcGdeQXVyMDg1OTIzMg@@._V1_QL50_SY1000_CR0,0,702,1000_AL_.jpg"
+        },
+        {
+            "title": "Mary Poppins Returns",
+            "genre": "Comedy, Family, Fantasy",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=7880bd7969c651c6507e81f225ece187cdfe6c867ddaec7a4202fd99657526cfca9c87c8770ee409&id=165647153&dk=MGY2NHpxMWN2Nmo3aC0xNjU2NDcxNTMubXA0&node=DS04&filename=Mary Poppins Returns (2018).mp4",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=7880bd7969c651c6507e81f225ece187cdfe6c867ddaec7a4202fd99657526cfca9c87c8770ee409&id=165647153&dk=MGY2NHpxMWN2Nmo3aC0xNjU2NDcxNTMubXA0&node=DS04&filename=Mary Poppins Returns (2018).mp4",
+            "info": "Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives",
+            "cover": "https://drive.google.com/uc?export=view&id=1SOZDnmFUbI3Fo5FjGErd9ZG5DQvRJR_R"
+        },
+        {
+            "title": "Simmba",
+            "genre": "Action, Comedy, Drama",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=757ab2dbfa064f96904d9cbad366885d40c1d35545e9031317d66745fb3f6bd5adc0c31f3a1064f0&id=165461226&dk=MXhlZnk1NHY3ZjY4di0xNjU0NjEyMjYubXA0&node=DS04&filename=Simmba.mp4",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=757ab2dbfa064f96904d9cbad366885d40c1d35545e9031317d66745fb3f6bd5adc0c31f3a1064f0&id=165461226&dk=MXhlZnk1NHY3ZjY4di0xNjU0NjEyMjYubXA0&node=DS04&filename=Simmba.mp4",
+            "info": "Simmba, a Corrupt Officer, enjoys all the perks of being an immoral and unethical police officer until a life-changing event forces him to choose the righteous path.",
+            "cover": "http://t3.gstatic.com/images?q=tbn:ANd9GcTGgh81X6SZcqqAdN2M7yEfwCqwI7TrVTXNMjBJiHau-9nukBv1"
+        },
+        {
+            "title": "Love Sonia",
+            "genre": "Drama",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=780e6257335055c800585db34369158e3890becac9d98ba99d7e3e15cfca00e61b5d6e5c09ee6373&id=165756560&dk=MWpyOHlnOWw3bnFvOS0xNjU3NTY1NjAubWt2&node=DS04&filename=Love Sonia (2018).mkv",
+            "videoThree": "https://www.hidrive.strato.com/wget/yCzYyVu9",
+            "info": "Inspired by real life events, Love Sonia is the story of a young girl's journey to rescue her sister from the dangerous world of international sex trafficking.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNmZhY2FjNmItOGRiNi00MjRlLWJlMGEtOGFjZWE0NmM0ODgyXkEyXkFqcGdeQXVyNzc4NzEwNTc@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+            "title": "Thugs of Hindostan",
+            "genre": "Action , Adventure ",
+            "year": "2018",
+            "videoOne": "TRUE",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=9145764adc1b9e2ed5e9c0aa421f617fe648b9a9578f37f47db754b5729ea4d2f0d860de163f434b&id=165879434&dk=MTZleXAyc3N1bzR6ZS0xNjU4Nzk0MzQubXA0&node=DS04&filename=Thugs.mp4",
+            "videoThree": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/Thugs.of.Hindostan.2018/Thugs.of.Hindostan.2018.mkv",
+            "info": "Based on Philip Meadows Taylor's 1839 novel Confessions of a Thug, the movie tells us about a thug named Ameer Ali and his gang, whose nefarious ways posed a serious challenge to the British Empire in India between 1790 and 1805.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTA3ODUxMzUzMzleQTJeQWpwZ15BbWU4MDMzMzkyNDYz._V1_QL50_SY1000_CR0,0,729,1000_AL_.jpg"
+        }
+    ]
+}
