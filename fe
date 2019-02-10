@@ -1,84 +1,83 @@
 {
     "records": [
         {
-            "title": "Bird box",
-            "genre": "Drama, Horror, Sci-Fi, Netflix",
+            "title": "Alita Battle Angel (Dual)",
+            "genre": "Action, Adventure, Romance",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://archive.org/download/audionetime_gmail_P420/Al.mkv",
+            "info": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_QL50_.jpg"
+        },
+        {
+            "title": "Serenity",
+            "genre": "Drama, Thriller",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6c47a7013cea296ffd4c59f9fda537b2852a9de103acc37ecfa2f4b259e80bc1de356f2adbdf2e4a&id=167492648&dk=MTVoczNzbXA5dnFveS0xNjc0OTI2NDgubXA0&node=DS04&filename=Serenity (2019.mp4",
+            "videoThree": "null",
+            "info": "Baker Dill is a fishing boat captain who leads tours off of the tranquil enclave of Plymouth Island. His peaceful life is soon shattered when his ex-wife Karen tracks him down. Desperate for help, Karen begs Baker to save her -- and their young son -- from her abusive husband. She wants him",
+            "cover": "https://drive.google.com/uc?export=view&id=1KKi-h9btKwQOd1is82lKj2CNVO7-asi5"
+        },
+        {
+            "title": "The Kid Who Would Be King",
+            "genre": "Adventure, Family, Fantasy",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=e29e3cd31ca1f9006e0d1588bad3b081ed2d917e5357b5dacf798ba02aaee482e8bf50b35cfac4d3&id=166996661&dk=MDUxbG9uc3ZiN2R4NC0xNjY5OTY2NjEubXA0&node=DS06&filename=The Kid Who Would Be King.mp4",
+            "videoThree": "n",
+            "info": "A band of kids embark on an epic quest to thwart a medieval menace.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjMzOTUwNzgyOV5BMl5BanBnXkFtZTgwNjk3MTQwNzM@._V1_QL50_SY1000_CR0,0,676,1000_AL_.jpg"
+        },
+        {
+            "title": "Searching",
+            "genre": "Drama , Thriller",
             "year": "2018",
             "videoOne": "1",
-            "videoTwo": "https://ia801501.us.archive.org/8/items/aa420/ham.mkv",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=16ae731077a6d14e55ae6580b0ea50ed64252fb29238ec359e9ced4730dbbe28fdb36c174e17ec02&id=165739764&dk=MTJrd3pnc29rdHh4Ni0xNjU3Mzk3NjQubXA0&node=DS04&filename=bird box 2018 netflix.mp4",
-            "info": "Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.",
-            "cover": "https://drive.google.com/uc?export=view&id=14PwOsMoNqBC2nB95Bw4ueU-jjJHh7S7q"
+            "videoTwo": "https://storage.googleapis.com/staging.workroom-198906.appspot.com/tv_show/Searching_2018/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6e9f6dba054b74caeb36b5068b46dec3d874da4cf32f47135d11e565578b3e456decf88f339bbfde&id=167127038&dk=MHAxZjhzd256NWlkMS0xNjcxMjcwMzgubXA0&node=DS04&filename=searching.mp4",
+            "info": "David Kim becomes desperate when his 16-year-old daughter Margot disappears and an immediate police investigation leads nowhere. He soon decides to search the one place that no one else has -- Margot's laptop. Hoping to trace her digital footprints, David contacts her friends and looks at photos ",
+            "cover": "https://drive.google.com/uc?export=view&id=1f7EIllcVXs2NtZf_HYgCdqBDXs4i1wPD"
         },
         {
-            "title": "The Mermaid Lake of the Dead",
-            "genre": "Fantasy, Horror, Ronmance",
-            "year": "2018",
-            "videoOne": "1",
-            "videoTwo": "https://archive.org/download/aa420/ham.mkv",
-            "videoThree": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv516850.mkv",
-            "info": "An evil Mermaid falls in love with Marina's fiancé Roman and aims to keep him away from Marina in her Kingdom of Death under water.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BNjAyYWFiNmEtY2JkNi00NGExLWI4YTctZjAyYmVjMjRjYjdlXkEyXkFqcGdeQXVyMDg1OTIzMg@@._V1_QL50_SY1000_CR0,0,702,1000_AL_.jpg"
+            "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+            "genre": "Comedy, Drama, Romance",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=3ac9ff8089f8475d5a059e39ee69e39b980be942593b976db94c26319558a07e57c68bce20b258a5&id=167215051&dk=MWt5OHZtenB4aHZkZS0xNjcyMTUwNTEubXA0&node=DS06&filename=ELKDTA.mp4",
+            "videoThree": "n",
+            "info": "Some love stories are not simple, Sweety's is one such story. She has to contend with her over-enthusiastic family that wants to get her married, a young writer who is completely smitten by her, a secret that she harbours close to her heart and ultimately the truth that her true love might not find acceptance in her family and society. Resolving these issues proves hilarious, touching and life changing.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZTNlY2YyOGYtZWFhYy00MDc3LTliYzMtZTUyYzVlNjQxZGRjXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL50_SY1000_SX750_AL_.jpg"
         },
         {
-            "title": "Mary Poppins Returns",
-            "genre": "Comedy, Family, Fantasy",
-            "year": "2018",
-            "videoOne": "1",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=7880bd7969c651c6507e81f225ece187cdfe6c867ddaec7a4202fd99657526cfca9c87c8770ee409&id=165647153&dk=MGY2NHpxMWN2Nmo3aC0xNjU2NDcxNTMubXA0&node=DS04&filename=Mary Poppins Returns (2018).mp4",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=7880bd7969c651c6507e81f225ece187cdfe6c867ddaec7a4202fd99657526cfca9c87c8770ee409&id=165647153&dk=MGY2NHpxMWN2Nmo3aC0xNjU2NDcxNTMubXA0&node=DS04&filename=Mary Poppins Returns (2018).mp4",
-            "info": "Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives",
-            "cover": "https://drive.google.com/uc?export=view&id=1SOZDnmFUbI3Fo5FjGErd9ZG5DQvRJR_R"
+            "title": "Manikarnika The Queen of Jhansi",
+            "genre": "Drama, Action",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv491622.mkv",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=39ff8a4cab94df433abd50752ed196c0b6136a021d2c32a9f76e349087b163a256a7edfb6a84ee88&id=166816642&dk=MGpwd2Ftc3lid24zOS0xNjY4MTY2NDIubWt2&node=DS04&filename=Mani.mkv",
+            "info": "The life of Rani Lakshmibai, one of the key leaders in the Indian Rebellion of 1857.",
+            "cover": "https://drive.google.com/uc?export=view&id=1Mi9YSkeA8T2FqSuFaCudX-VWgdTYIZ_-"
         },
         {
-            "title": "Bumblebee Dual",
-            "genre": "Action, Adventure, Sci-Fi",
-            "year": "2018",
-            "videoOne": "1",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=16ae731077a6d14e55ae6580b0ea50ed64252fb29238ec359e9ced4730dbbe28fdb36c174e17ec02&id=165695553&dk=MXd6cmlxbTdweTN5ay0xNjU2OTU1NTMubWt2&node=DS06&filename=Bumblebee.mkv",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d055118c3eb8cee812f140d5b24cce1a553c7a0ace122ef208ac46c205ed6610a74e848c5645ae89&id=165168094&dk=MDA2dW0xbGMxMjh1ZC0xNjUxNjgwOTQubXA0&node=DS04&filename=Bumblebee.mp4",
-            "info": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BOTM3NzE5OTE1Nl5BMl5BanBnXkFtZTgwNzQwNjM3NjM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg"
+            "title": "Uri The Surgical Strike",
+            "genre": "Action, Drama",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d765f1d5b346ab87f0779a171372a24b01a215654f61a9a9429459f9cd4bfbe80811b2f22edfc44c&id=166432015&dk=MG03ZDYyZms1bnQyby0xNjY0MzIwMTUuTVA0&node=DS04&filename=videoplayback.MP4",
+            "videoThree": "n",
+            "info": "Based on the true events of 2016, when Indian Army avenged a deadly terrorist attack by carrying out a surgical strike.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg"
         },
         {
-            "title": "Love Sonia",
-            "genre": "Drama",
+            "title": "KGF",
+            "genre": "Action, Drama",
             "year": "2018",
             "videoOne": "2",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=780e6257335055c800585db34369158e3890becac9d98ba99d7e3e15cfca00e61b5d6e5c09ee6373&id=165756560&dk=MWpyOHlnOWw3bnFvOS0xNjU3NTY1NjAubWt2&node=DS04&filename=Love Sonia (2018).mkv",
-            "videoThree": "https://www.hidrive.strato.com/wget/yCzYyVu9",
-            "info": "Inspired by real life events, Love Sonia is the story of a young girl's journey to rescue her sister from the dangerous world of international sex trafficking.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BNmZhY2FjNmItOGRiNi00MjRlLWJlMGEtOGFjZWE0NmM0ODgyXkEyXkFqcGdeQXVyNzc4NzEwNTc@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg"
-        },
-        {
-            "title": "Thugs of Hindostan",
-            "genre": "Action , Adventure ",
-            "year": "2018",
-            "videoOne": "2",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=9145764adc1b9e2ed5e9c0aa421f617fe648b9a9578f37f47db754b5729ea4d2f0d860de163f434b&id=165879434&dk=MTZleXAyc3N1bzR6ZS0xNjU4Nzk0MzQubXA0&node=DS04&filename=Thugs.mp4",
-            "videoThree": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/Thugs.of.Hindostan.2018/Thugs.of.Hindostan.2018.mkv",
-            "info": "Based on Philip Meadows Taylor's 1839 novel Confessions of a Thug, the movie tells us about a thug named Ameer Ali and his gang, whose nefarious ways posed a serious challenge to the British Empire in India between 1790 and 1805.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMTA3ODUxMzUzMzleQTJeQWpwZ15BbWU4MDMzMzkyNDYz._V1_QL50_SY1000_CR0,0,729,1000_AL_.jpg"
-        },
-        {
-            "title": "Simmba",
-            "genre": "Action, Comedy, Drama",
-            "year": "2018",
-            "videoOne": "2",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=757ab2dbfa064f96904d9cbad366885d40c1d35545e9031317d66745fb3f6bd5adc0c31f3a1064f0&id=165461226&dk=MXhlZnk1NHY3ZjY4di0xNjU0NjEyMjYubXA0&node=DS04&filename=Simmba.mp4",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=757ab2dbfa064f96904d9cbad366885d40c1d35545e9031317d66745fb3f6bd5adc0c31f3a1064f0&id=165461226&dk=MXhlZnk1NHY3ZjY4di0xNjU0NjEyMjYubXA0&node=DS04&filename=Simmba.mp4",
-            "info": "Simmba, a Corrupt Officer, enjoys all the perks of being an immoral and unethical police officer until a life-changing event forces him to choose the righteous path.",
-            "cover": "http://t3.gstatic.com/images?q=tbn:ANd9GcTGgh81X6SZcqqAdN2M7yEfwCqwI7TrVTXNMjBJiHau-9nukBv1"
-        },
-        {
-            "title": "Robot 2.0",
-            "genre": "Action, Sci-Fi, Thriller",
-            "year": "2018",
-            "videoOne": "2",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=2f735551d78420e9883693e958a56b67c23ad98244fb3866d96a4cc4d2457ee9c3a06ebd970a644c&id=165091114&dk=MHc4ZHl0dDExdzg5ei0xNjUwOTExMTQubXA0&node=DS04&filename=2.0.mp4",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=2f735551d78420e9883693e958a56b67c23ad98244fb3866d96a4cc4d2457ee9c3a06ebd970a644c&id=165091114&dk=MHc4ZHl0dDExdzg5ei0xNjUwOTExMTQubXA0&node=DS04&filename=2.0.mp4",
-            "info": "After facing a threat that is beyond the current understanding of science, the Government seeks the help of scientists. Dr. Vaseegaran suggests to assemble Chitti to fight against it.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BNTExOTgwOGYtMmQ2MS00MzAyLWFhZmItNjViZmEwOWMxN2I4XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg"
+            "videoTwo": "http://ssd3.polosolo.net/HDFriday/Bollywood-Movies/720p/K%20G%20F%20Chapter%201%202018%20DvDRip%20HDFriday.mp4",
+            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d055118c3eb8cee812f140d5b24cce1a553c7a0ace122ef208ac46c205ed6610a74e848c5645ae89&id=165292133&dk=MWp0ZHE1b2R6Ymdrdi0xNjUyOTIxMzMuTVA0&node=DS04&filename=KGF.MP4",
+            "info": "A period drama narrates the 1700-year-old history of oppressed waging wars against their oppressors. Set in the early 80s, KGF - the first chapter centers the protagonist who leads a battle against oppressors.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNDIwMDYxY2UtM2NhYy00NzkwLThhNDYtY2IxZGZhNjYyNmM2XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL50_SY1000_CR0,0,743,1000_AL_.jpg"
         }
     ]
 }
