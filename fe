@@ -1,26 +1,6 @@
 {
     "records": [
         {
-            "title": "Alita Battle Angel",
-            "genre": "Action, Adventure, Romance",
-            "year": "2019",
-            "videoOne": "1",
-            "videoTwo": "https://archive.org/download/audionetime_gmail_P420/Al.mkv",
-            "videoThree": "null",
-            "info": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_QL50_.jpg"
-        },
-        {
-            "title": "Serenity",
-            "genre": "Drama, Thriller",
-            "year": "2019",
-            "videoOne": "1",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6c47a7013cea296ffd4c59f9fda537b2852a9de103acc37ecfa2f4b259e80bc1de356f2adbdf2e4a&id=167492648&dk=MTVoczNzbXA5dnFveS0xNjc0OTI2NDgubXA0&node=DS04&filename=Serenity (2019.mp4",
-            "videoThree": "null",
-            "info": "Baker Dill is a fishing boat captain who leads tours off of the tranquil enclave of Plymouth Island. His peaceful life is soon shattered when his ex-wife Karen tracks him down. Desperate for help, Karen begs Baker to save her -- and their young son -- from her abusive husband. She wants him",
-            "cover": "https://drive.google.com/uc?export=view&id=1KKi-h9btKwQOd1is82lKj2CNVO7-asi5"
-        },
-        {
             "title": "The Kid Who Would Be King",
             "genre": "Adventure, Family, Fantasy",
             "year": "2019",
@@ -36,29 +16,29 @@
             "year": "2018",
             "videoOne": "1",
             "videoTwo": "https://storage.googleapis.com/staging.workroom-198906.appspot.com/tv_show/Searching_2018/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6e9f6dba054b74caeb36b5068b46dec3d874da4cf32f47135d11e565578b3e456decf88f339bbfde&id=167127038&dk=MHAxZjhzd256NWlkMS0xNjcxMjcwMzgubXA0&node=DS04&filename=searching.mp4",
+            "videoThree": "n",
             "info": "David Kim becomes desperate when his 16-year-old daughter Margot disappears and an immediate police investigation leads nowhere. He soon decides to search the one place that no one else has -- Margot's laptop. Hoping to trace her digital footprints, David contacts her friends and looks at photos ",
             "cover": "https://drive.google.com/uc?export=view&id=1f7EIllcVXs2NtZf_HYgCdqBDXs4i1wPD"
         },
         {
-            "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
-            "genre": "Comedy, Drama, Romance",
+            "title": "Serenity",
+            "genre": "Drama, Thriller",
             "year": "2019",
-            "videoOne": "2",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=3ac9ff8089f8475d5a059e39ee69e39b980be942593b976db94c26319558a07e57c68bce20b258a5&id=167215051&dk=MWt5OHZtenB4aHZkZS0xNjcyMTUwNTEubXA0&node=DS06&filename=ELKDTA.mp4",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6c47a7013cea296ffd4c59f9fda537b2852a9de103acc37ecfa2f4b259e80bc1de356f2adbdf2e4a&id=167492648&dk=MTVoczNzbXA5dnFveS0xNjc0OTI2NDgubXA0&node=DS04&filename=Serenity (2019.mp4",
             "videoThree": "n",
-            "info": "Some love stories are not simple, Sweety's is one such story. She has to contend with her over-enthusiastic family that wants to get her married, a young writer who is completely smitten by her, a secret that she harbours close to her heart and ultimately the truth that her true love might not find acceptance in her family and society. Resolving these issues proves hilarious, touching and life changing.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BZTNlY2YyOGYtZWFhYy00MDc3LTliYzMtZTUyYzVlNjQxZGRjXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL50_SY1000_SX750_AL_.jpg"
+            "info": "Baker Dill is a fishing boat captain who leads tours off of the tranquil enclave of Plymouth Island. His peaceful life is soon shattered when his ex-wife Karen tracks him down. Desperate for help, Karen begs Baker to save her -- and their young son -- from her abusive husband. She wants him",
+            "cover": "https://drive.google.com/uc?export=view&id=1KKi-h9btKwQOd1is82lKj2CNVO7-asi5"
         },
         {
-            "title": "Manikarnika The Queen of Jhansi",
-            "genre": "Drama, Action",
+            "title": "Alita Battle Angel (Dual)",
+            "genre": "Action, Adventure, Romance",
             "year": "2019",
-            "videoOne": "2",
-            "videoTwo": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv491622.mkv",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=39ff8a4cab94df433abd50752ed196c0b6136a021d2c32a9f76e349087b163a256a7edfb6a84ee88&id=166816642&dk=MGpwd2Ftc3lid24zOS0xNjY4MTY2NDIubWt2&node=DS04&filename=Mani.mkv",
-            "info": "The life of Rani Lakshmibai, one of the key leaders in the Indian Rebellion of 1857.",
-            "cover": "https://drive.google.com/uc?export=view&id=1Mi9YSkeA8T2FqSuFaCudX-VWgdTYIZ_-"
+            "videoOne": "1",
+            "videoTwo": "https://archive.org/download/audionetime_gmail_P420/Al.mkv",
+            "videoThree": "n",
+            "info": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_QL50_.jpg"
         },
         {
             "title": "Uri The Surgical Strike",
@@ -76,9 +56,29 @@
             "year": "2018",
             "videoOne": "2",
             "videoTwo": "http://ssd3.polosolo.net/HDFriday/Bollywood-Movies/720p/K%20G%20F%20Chapter%201%202018%20DvDRip%20HDFriday.mp4",
-            "videoThree": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d055118c3eb8cee812f140d5b24cce1a553c7a0ace122ef208ac46c205ed6610a74e848c5645ae89&id=165292133&dk=MWp0ZHE1b2R6Ymdrdi0xNjUyOTIxMzMuTVA0&node=DS04&filename=KGF.MP4",
+            "videoThree": "n",
             "info": "A period drama narrates the 1700-year-old history of oppressed waging wars against their oppressors. Set in the early 80s, KGF - the first chapter centers the protagonist who leads a battle against oppressors.",
             "cover": "https://m.media-amazon.com/images/M/MV5BNDIwMDYxY2UtM2NhYy00NzkwLThhNDYtY2IxZGZhNjYyNmM2XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL50_SY1000_CR0,0,743,1000_AL_.jpg"
+        },
+        {
+            "title": "Manikarnika The Queen of Jhansi",
+            "genre": "Drama, Action",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv491622.mkv",
+            "videoThree": "n",
+            "info": "The life of Rani Lakshmibai, one of the key leaders in the Indian Rebellion of 1857.",
+            "cover": "https://drive.google.com/uc?export=view&id=1Mi9YSkeA8T2FqSuFaCudX-VWgdTYIZ_-"
+        },
+        {
+            "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+            "genre": "Comedy, Drama, Romance",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=3ac9ff8089f8475d5a059e39ee69e39b980be942593b976db94c26319558a07e57c68bce20b258a5&id=167215051&dk=MWt5OHZtenB4aHZkZS0xNjcyMTUwNTEubXA0&node=DS06&filename=ELKDTA.mp4",
+            "videoThree": "n",
+            "info": "Some love stories are not simple, Sweety's is one such story. She has to contend with her over-enthusiastic family that wants to get her married, a young writer who is completely smitten by her, a secret that she harbours close to her heart and ultimately the truth that her true love might not find acceptance in her family and society. Resolving these issues proves hilarious, touching and life changing.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZTNlY2YyOGYtZWFhYy00MDc3LTliYzMtZTUyYzVlNjQxZGRjXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL50_SY1000_SX750_AL_.jpg"
         }
     ]
 }
