@@ -6,6 +6,7 @@
             "year": "2019",
             "videoOne": "1",
             "videoTwo": "https://archive.org/download/audionetime_gmail_P420/Al.mkv",
+            "videoThree": "null",
             "info": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
             "cover": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_QL50_.jpg"
         },
@@ -40,7 +41,7 @@
             "cover": "https://drive.google.com/uc?export=view&id=1f7EIllcVXs2NtZf_HYgCdqBDXs4i1wPD"
         },
         {
-            "title": "Ek Ladki Ko Dekha toh Aisa Laga",
+            "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
             "genre": "Comedy, Drama, Romance",
             "year": "2019",
             "videoOne": "2",
