@@ -1,7 +1,7 @@
 {
-  "versionCode":40,
-  "versionName":"6.9.9",
-  "content":"1.add something#2.add something",
-  "minSupport":40,
-  "url":"https://docs.google.com/uc?export=download&id=1eWAqsqCHUUllwmYXAGLQp3gxes5UATfp"
+  "newVersion": "6.9.9",
+  "apkUrl": "https://github.com/Kalakarivala/testProject/blob/master/Movies%20Time%20V38.apk?raw=true",
+  "versionNotes": [
+    "- Bug fixes"
+  ]
 }
