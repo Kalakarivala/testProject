@@ -1,7 +1,8 @@
 {
-  "newVersion": "7.0.1",
+  "newVersion": "7.0.0",
   "apkUrl": "https://docs.google.com/uc?export=download&id=1eWAqsqCHUUllwmYXAGLQp3gxes5UATfp",
   "versionNotes": [
-    "- Bug fixes"
+    "- Bug fixes
+     - Inapp Update"
   ]
 }
