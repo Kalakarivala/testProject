@@ -1,14 +1,14 @@
 {
     "records": [
         {
-            "title": "Hellboy",
-            "genre": "Action, Adventure, Fantasy",
+            "title": "Aladdin Dual",
+            "genre": "Adventure, Comedy, Family",
             "year": "2019",
             "videoOne": "1",
-            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv456740.mkv",
+            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv420817.mkv",
             "videoThree": "n",
-            "info": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BZGU0ZDllMjItNzUxYS00NzJlLTg0NjAtZWQ5Njk4MDBhYmEzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL50_SY1000_SX750_AL_.jpg"
+            "info": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDAxMzFhODgtNGNlZC00OTAyLWE2ZGMtYTNlNWZiZmUyMGU5XkEyXkFqcGdeQXVyMzc5ODkzNDE@._V1_QL50_SY1000_SX700_AL_.jpg"
         },
         {
             "title": "Avengers Endgame Dual",
