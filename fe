@@ -11,24 +11,24 @@
             "cover": "https://m.media-amazon.com/images/M/MV5BMDAxMzFhODgtNGNlZC00OTAyLWE2ZGMtYTNlNWZiZmUyMGU5XkEyXkFqcGdeQXVyMzc5ODkzNDE@._V1_QL50_SY1000_SX700_AL_.jpg"
         },
         {
-            "title": "Avengers Endgame Dual",
-            "genre": "Action, Adventure, Fantasy",
-            "year": " ",
-            "videoOne": "1",
-            "videoTwo": "https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/Avengers.Endgame/Avengers.Endgame.2019.mkv",
-            "videoThree": "n",
-            "info": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg"
-        },
-        {
-            "title": "John Wick Chapter 3 - Parabellum",
-            "genre": "Action, Crime, Thriller",
+            "title": "Men in Black: International",
+            "genre": "Fantasy",
             "year": "2019",
             "videoOne": "1",
-            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d87930942286053415a8c14897e46b54e4d495d70647b867106d0b5a197ae8c552cb537c985fa0cd&id=170712172&dk=MGlraTRlZTg3cWk2NC0xNzA3MTIxNzIubXA0&node=DS06&filename=John Wick 3 2019.mp4",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=c57df4839a0b000c6e92ae5a50b550dcb7cca14c29f7bf5706c634e475286e6646e48589dfb22267&id=171476756&dk=MWIzaW5raHdxemphZy0xNzE0NzY3NTYubXA0&node=DS04&filename=mib.mp4.mp4",
             "videoThree": "n",
-            "info": "Super-assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BODNmMTU3YzItNzEyZi00YWYzLTlmNmItM2ZhMDQ1Yjg5YmJlXkEyXkFqcGdeQXVyOTA4NzM1NjE@._V1_QL50_SX800_CR0,0,800,999_AL_.jpg"
+            "info": "Chris Hemsworth and Tessa Thompson star as Agent H and Agent M, who employ high-tech weaponry to battle mischievous aliens on Earth. However, the pair also discover a major threat within their own ranks.",
+            "cover": "https://drive.google.com/uc?export=view&id=1VPf7SRfEuVSoallHQvZiCj6x63Ti9XOF"
+        },
+        {
+            "title": "Dark Phoenix Dual",
+            "genre": "Action, Adventure, Sci-Fi",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=8b98cc9122bf15e85f62b90359228fddd773f264e651187b585ac5813b36c9e3270108754b172d9c&id=171271712&dk=MWxobHphc3AyMmYyci0xNzEyNzE3MTIubWt2&node=DS04&filename=X-Men.Dark.mkv",
+            "videoThree": "n",
+            "info": "https://plus2.uhub.com/sapi/download/video?action=get&userid=8b98cc9122bf15e85f62b90359228fddd773f264e651187b585ac5813b36c9e3270108754b172d9c&id=171271712&dk=MWxobHphc3AyMmYyci0xNzEyNzE3MTIubWt2&node=DS04&filename=X-Men.Dark.mkv	Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjAwNDgxNTI0M15BMl5BanBnXkFtZTgwNTY4MDI1NzM@._V1_QL50_SY1000_CR0,0,631,1000_AL_.jpg"
         },
         {
             "title": "Pokémon Detective Pikachu",
