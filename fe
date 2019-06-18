@@ -73,7 +73,91 @@
         {
             "title": "Khamoshi",
             "genre": "Horror, Thriller",
+            "year": "2019",{
+    "records": [
+        {
+            "title": "Aladdin Dual",
+            "genre": "Adventure, Comedy, Family",
             "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv420817.mkv",
+            "videoThree": "n",
+            "info": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDAxMzFhODgtNGNlZC00OTAyLWE2ZGMtYTNlNWZiZmUyMGU5XkEyXkFqcGdeQXVyMzc5ODkzNDE@._V1_QL50_SY1000_SX700_AL_.jpg"
+        },
+        {
+            "title": "Men in Black: International",
+            "genre": "Fantasy",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=c57df4839a0b000c6e92ae5a50b550dcb7cca14c29f7bf5706c634e475286e6646e48589dfb22267&id=171476756&dk=MWIzaW5raHdxemphZy0xNzE0NzY3NTYubXA0&node=DS04&filename=mib.mp4.mp4",
+            "videoThree": "n",
+            "info": "Chris Hemsworth and Tessa Thompson star as Agent H and Agent M, who employ high-tech weaponry to battle mischievous aliens on Earth. However, the pair also discover a major threat within their own ranks.",
+            "cover": "https://drive.google.com/uc?export=view&id=1VPf7SRfEuVSoallHQvZiCj6x63Ti9XOF"
+        },
+        {
+            "title": "Dark Phoenix Dual",
+            "genre": "Action, Adventure, Sci-Fi",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=8b98cc9122bf15e85f62b90359228fddd773f264e651187b585ac5813b36c9e3270108754b172d9c&id=171271712&dk=MWxobHphc3AyMmYyci0xNzEyNzE3MTIubWt2&node=DS04&filename=X-Men.Dark.mkv",
+            "videoThree": "n",
+            "info": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjAwNDgxNTI0M15BMl5BanBnXkFtZTgwNTY4MDI1NzM@._V1_QL50_SY1000_CR0,0,631,1000_AL_.jpg"
+        },
+        {
+            "title": "Pokémon Detective Pikachu",
+            "genre": "Fantasy, Mystery",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=d87930942286053415a8c14897e46b54e4d495d70647b867106d0b5a197ae8c552cb537c985fa0cd&id=170649814&dk=MHpoeXh6dTVrbmF2eS0xNzA2NDk4MTQubWt2&node=DS06&filename=pika.mkv",
+            "videoThree": "n",
+            "info": "Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old son, Tim, to find out what happened. Aiding in the investigation is Harry's former Pokémon partner, wise-cracking, adorable super-sleuth Detective Pikachu.",
+            "cover": "https://pbs.twimg.com/media/D3LMaoYWsAAxSzB.jpg"
+        },
+        {
+            "title": "Music Teacher",
+            "genre": "Drama, Netflix",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "http://fs.evonetbd.com/Movies%20Collection%20/Hindi%20Movies/2019/Music%20Teacher%20%282019%29%20Hindi%20720p%20HDRip.mkv",
+            "videoThree": "n",
+            "info": "Despite his ambitions to make it big, Beni is still stuck in the hills, bitter and hurt, struggling to make ends meet by teaching music and singing in clubs. Jyotsna",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjExN2RhNjgtMzAxMy00OTRlLTlmYTYtNTlmOWRlNDgwNTg1XkEyXkFqcGdeQXVyNzI0NzQyNTk@._V1_QL50_SX707_CR0,0,707,999_AL_.jpg"
+        },
+        {
+            "title": "Chopsticks",
+            "genre": "Comedy, Drama, Netflix",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv601801.mkv",
+            "videoThree": "n",
+            "info": "A gifted but insecure woman is in for a transformative experience when she enlists an enigmatic con to help recover her stolen car from a Mumbai thug.",
+            "cover": "https://drive.google.com/uc?export=view&id=1q39SbUsSgkfRf2PVrGlHpbK6D2jnOSH_"
+        },
+        {
+            "title": "Game Over",
+            "genre": "Drama, Thriller",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=4888cc5fe2d8fac59a9de36f41787ae4581bba007498cb002d2f93b9b278d45cbd878b655bb468fb&id=171502836&dk=MGJ0YjVnNGZuOWJuMy0xNzE1MDI4MzYubXA0&node=DS06&filename=Game Over (2019).mp4https://plus2.uhub.com/sapi/download/video?action=get&userid=4888cc5fe2d8fac59a9de36f41787ae4581bba007498cb002d2f93b9b278d45cbd878b655bb468fb&id=171502836&dk=MGJ0YjVnNGZuOWJuMy0xNzE1MDI4MzYubXA0&node=DS06&filename=Game Over (2019).mp4",
+            "videoThree": "n",
+            "info": "A nyctophobic woman has to fight her inner demons to stay alive in the game called life.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTA5ZjZjYTQtNGI5Zi00NDI2LThjNWQtZjVjYzEyZDQ4YzlmXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_QL50_SY1000_CR0,0,658,1000_AL_.jpg"
+        },
+        {
+            "title": "Khamoshi",
+            "genre": "Horror, Thriller",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/file?action=get&userid=4888cc5fe2d8fac59a9de36f41787ae4581bba007498cb002d2f93b9b278d45cbd878b655bb468fb&id=171502837&dk=MG5qc2Yza2hrbGh5bi0xNzE1MDI4MzcudHM&node=DS04&filename=Khamoshi (2019).ts",
+            "videoThree": "n",
+            "info": "A remake of an English movie Hush (2016), where a deaf and mute girl must fight for her life when a killer appears at her door.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDlmZWY5N2QtYTcwMS00MTM2LTk2ODctNTM4YjU3YWIyMDM3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+    ]
+}
+
             "videoOne": "2",
             "videoTwo": "https://plus2.uhub.com/sapi/download/file?action=get&userid=4888cc5fe2d8fac59a9de36f41787ae4581bba007498cb002d2f93b9b278d45cbd878b655bb468fb&id=171502837&dk=MG5qc2Yza2hrbGh5bi0xNzE1MDI4MzcudHM&node=DS04&filename=Khamoshi (2019).ts",
             "videoThree": "n",
