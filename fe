@@ -1,14 +1,14 @@
 {
     "records": [
         {
-            "title": "Aladdin Dual",
-            "genre": "Adventure, Comedy, Family",
+            "title": "Murder Mystery",
+            "genre": "Action, Comedy, Mystery, Netflix",
             "year": "2019",
             "videoOne": "1",
-            "videoTwo": "https://storage.googleapis.com/staging.long-grin-178103.appspot.com/tv_show/mkv420817.mkv",
+            "videoTwo": "http://dl12.f2m.co/film/Murder.Mystery.2019.720p.WEB-DL.Film2Movie_WS.mkv",
             "videoThree": "n",
-            "info": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMDAxMzFhODgtNGNlZC00OTAyLWE2ZGMtYTNlNWZiZmUyMGU5XkEyXkFqcGdeQXVyMzc5ODkzNDE@._V1_QL50_SY1000_SX700_AL_.jpg"
+            "info": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjBiNzIzZmYtNjdjMi00ODdiLWJlYmUtY2UzMWU0MGRlNjBjXkEyXkFqcGdeQXVyMTk1MDY4NzY@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg"
         },
         {
             "title": "Men in Black: International",
