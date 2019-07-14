@@ -1,8 +1,8 @@
 {
-  "newVersion": "7.0.1",
-  "apkUrl": "https://github.com/Audionetime/Movie-s-Time-Api/blob/master/Movies%20Time%20V40.apk?raw=true",
+  "newVersion": "7.5.2",
+  "apkUrl": "https://github.com/Audionetime/Movie-s-Time-Api/blob/master/Movies%20Time%20V42.apk?raw=true",
   "versionNotes": [
     "- Bug fixes
-     - Inapp Update"
+     - Improve Stability"
   ]
 }
