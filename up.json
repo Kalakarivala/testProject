@@ -1,8 +1,7 @@
 {
-  "newVersion": "9.8.6",
-  "apkUrl": "https://raw.githubusercontent.com/Audionetime/Movie-s-Time-Api/master/Movies%20Time%20V48.apk",
+  "newVersion": "10.2.1",
+  "apkUrl": "https://raw.githubusercontent.com/Audionetime/Movie-s-Time-Api/master/Movies%20Time%20V49.apk",
   "versionNotes": [
-    "- Bug fixes
-     - Improve Stability"
+    "- Bug fixes"
   ]
 }
